@@ -1,0 +1,12 @@
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\bin\Debug\Sign Up Form.exe.config
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\bin\Debug\Sign Up Form.exe
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\bin\Debug\Sign Up Form.pdb
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign Up Form.csproj.AssemblyReference.cache
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign_Up_Form.Properties.Resources.resources
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign Up Form.csproj.GenerateResource.cache
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign Up Form.csproj.CoreCompileInputs.cache
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign Up Form.exe
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign Up Form.pdb
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign_Up_Form.Login_Form.resources
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign_Up_Form.Signup_form.resources
+D:\UI & UX\Final project\Sign Up Form\Sign Up Form\obj\Debug\Sign_Up_Form.Home.resources
